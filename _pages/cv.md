@@ -15,20 +15,21 @@ Education
 * M.S. in Mathematics, University of Macau, 2022
 * B.S. in Mathematics, Qufu Normal University, 2020
 
-Publications
+Research Fields
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Financial econometrics (high-frequency data), Nonparametric statistics, Dependence structure
   
-Talks
+Conference and Seminar Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Institute of Economic Studies, Keio University Econometrics Workshop (Tokyo, Japan), Jun 2025
+* Workshop on Statistics, University of Macau (Macau, China), Apr 2025
+* The 2nd Joint Conference on Statistics and Data Science in China (Kunming, China), Jul 2024
+* Joint Conference on Statistics and Data Science in China (Beijing, China), Jul 2023
+* The 6th National Statistical Ph.D. Academic Forum (Virtual, Guangzhou University, China), Nov 2022
+
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* UM PhD Scholarship, University of Macau, Aug 2022 - Jun 2026
+* Outstanding Graduate of Shandong Province, Department of Human Resources and Social Security of Shandong Province, Jun 2020
+* National Scholarship, Ministry of Education of the People's Republic of China, Dec 2019
+* Third prize, National Mathematics Competition, Shandong Provincial Education Department, Oct 2019
