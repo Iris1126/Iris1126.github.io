@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Publication"
-permalink: /publication/
+title: "Publications"
+permalink: /publications/
 ---
 
-## Publication
+## Publications
 
 1. **Optimal Inference for Spot Regressions**  
    (with Tim Bollerslev and Jia Li) [pdf]  
