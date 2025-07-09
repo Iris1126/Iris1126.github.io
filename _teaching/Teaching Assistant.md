@@ -2,6 +2,9 @@
 layout: page
 title: "Teaching"
 permalink: /teaching/
+show_metadata: false
+---
+
 ---
 
 ## University of Macau
