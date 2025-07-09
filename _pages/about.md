@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in [Faculty of Science and Technology](https://www.fst.um.edu.mo/), University of Macau (UM), under the supervision of Professor [Zhi LIU](https://www.fst.um.edu.mo/personal/liuzhi/).
+Hi! I am a fourth-year Ph.D. Candidate in [Faculty of Science and Technology](https://www.fst.um.edu.mo/), University of Macau (UM), under the supervision of Professor [Zhi LIU](https://www.fst.um.edu.mo/personal/liuzhi/).
 
 My research interest includes Financial Econometrics (high-frequency data), Nonparametric Statistics, and Dependence Structure (copula theory).
 
