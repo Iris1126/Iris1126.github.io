@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 collection: teaching
+layout: none
 ---
 
 ## University of Macau
