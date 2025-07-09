@@ -39,3 +39,17 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom styles to adjust the size of section titles in CV */
+.cv-section h2, .cv-section h3 {
+  font-size: 1.2rem;  /* Adjust the font size as needed */
+  font-weight: normal; /* Optional: Remove bold if desired */
+}
+
+.cv-section h2 {
+  font-size: 1.4rem;  /* You can make the main headings slightly bigger */
+}
+
+.cv-section h3 {
+  font-size: 1.1rem;  /* Smaller font size for h3 elements */
+}
