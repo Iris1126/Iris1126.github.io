@@ -21,7 +21,7 @@ redirect_from:
   <ul>
     <li>Financial econometrics (high-frequency data)</li>
     <li>Nonparametric statistics</li>
-    <li>Dependence structure</li>
+    <li>Dependence structure （copula theory)</li>
   </ul>
 
   <h2>Conference and Seminar Presentations</h2>
