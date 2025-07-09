@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 collection: teaching
-layout: none
+permalink: /teaching/
 ---
 
 ## University of Macau
